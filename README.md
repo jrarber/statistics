@@ -21,6 +21,5 @@ If you are unfamiliar (or need a refresher), check out the <a href="IntrotoR.nb.
 <a href="Linear.Mixed.Effects.Models.nb.html" title="Linear Mixed Effects Models">Linear Mixed Effects Models</a>
 
 
-<a href="Randomization_Bootstrapping.nb.html" title="Randomization Tests">Randomization Tests</a>
-
+<a href="Ranomization_Bootstrapping.nb.html" title="Randomization Tests">Randomization Tests</a>
 
