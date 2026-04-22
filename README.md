@@ -6,7 +6,7 @@ If you are unfamiliar (or need a refresher), check out the <a href="IntrotoR.nb.
 
 
 ## Specific Help Pages
-<a href="Descriptive_Stats.nb.html" title="Descriptive Statistics in R">Descriptive Statistics</a>
+<a href="Descriptive Stats.nb.html" title="Descriptive Statistics in R">Descriptive Statistics</a>
 
 
 <a href="Parametrics.nb.html" title="Parametric Tests in R">Parametric Tests</a> 
